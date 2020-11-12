@@ -1,10 +1,4 @@
 
-
-#  Workers: Minni Bin
-#           Ziming Yan
-
-
-
 # connect4.py
 # ---------
 # Licensing Information:  You are free to use or extend these projects for
